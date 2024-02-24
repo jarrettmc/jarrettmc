@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarrettmc
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning Django and Python
+- 👀 I’m interested in ... all computer stuff, Linux, Windows, servers, also Music, Movies, Coffee, Food, and Cruizing!
+- 🌱 I’m currently learning Django, Python, SSIS, and PowerBI
 - 💞️ I’m looking to collaborate on some Python apps 
 - 📫 How to reach me ...
 
